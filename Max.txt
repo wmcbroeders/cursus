@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Ik ben ook van de partij.
+=======
+Max is ook van de partij
+>>>>>>> main
